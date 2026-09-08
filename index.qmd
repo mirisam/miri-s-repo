@@ -1,0 +1,12 @@
+--- 
+title: "Home" 
+--- 
+ 
+::: {.hero-banner} 
+<span class="prototype-badge">Prototype</span> 
+ 
+<div class="hero-title">Evidence Surveillance Hub</div> 
+ 
+<div class="hero-subtitle"> 
+A prototype demonstrating how living evidence surveillance outputs can be published through a searchable, downloadable, and version-controlled platform. 
+</div> 
