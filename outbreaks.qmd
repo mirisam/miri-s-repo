@@ -1,0 +1,21 @@
+--- 
+title: "Outbreaks" 
+--- 
+ 
+# Outbreaks 
+ 
+Select an outbreak below to view the latest evidence surveillance table and download the current dataset. 
+ 
+Each outbreak has its own concfolder, downloadable CSV, and optional full dataset XLSX file. Columns may differ between outbreaks depending on the surveillance needs for that topic. 
+ 
+::: {.card-grid} 
+ 
+::: {.info-card} 
+### Example Outbreak 
+ 
+Evidence surveillance data for example outbreak literature. 
+ 
+[View evidence](outbreaks/example-outbreak/) 
+::: 
+ 
+::: 
