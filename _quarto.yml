@@ -6,7 +6,7 @@ website:
   search: true 
  
   navbar: 
-    background: "#26374a" 
+    background: "#c2187a"
     foreground: "white" 
     left: 
       - href: index.qmd 
